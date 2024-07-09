@@ -6,7 +6,6 @@ The Healthcare Billing Data Analysis project provides a comprehensive solution f
 
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
   - [Data Collection and Cleaning](#data-collection-and-cleaning)
   - [Data Validation](#data-validation)
@@ -31,15 +30,16 @@ The Healthcare Billing Data Analysis project provides a comprehensive solution f
 - Requests
 
 
-## Usage
-
-### Data Collection and Cleaning
-
 Ensure your dataset includes columns such as `account_id`, `customer_name`, `billing_date`, `amount`, `status`, `description`, and `department` and is in CSV format.
 
 ### Jupyter Notebook
 
-To run the analysis and generate reports, open the Jupyter Notebook `main.ipynb`:
+To run the analysis and generate reports, open the Jupyter Notebook `main.ipynb`
 
-```bash
-jupyter notebook main.ipynb
+### Plottings Generated are given below
+
+
+<br/>
+<img src="./readme_assets/report1.png" alt = "draft 1" width="1000px">
+<img src="./readme_assets/report 2.png" alt = "draft 1" width="1000px">
+<img src="./readme_assets/report 3.png" alt = "draft 1" width="1000px">
