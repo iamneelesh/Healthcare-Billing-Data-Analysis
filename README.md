@@ -40,6 +40,6 @@ To run the analysis and generate reports, open the Jupyter Notebook `main.ipynb`
 
 
 <br/>
-<img src="./readme_assets/report1.png" alt = "draft 1" width="1000px">
-<img src="./readme_assets/report 2.png" alt = "draft 1" width="1000px">
-<img src="./readme_assets/report 3.png" alt = "draft 1" width="1000px">
+<img src="./readme_assets/average_billing_per_customer.png" alt = "draft 1" width="1000px">
+<img src="./readme_assets/payment_status_distribution.png" alt = "draft 1" width="1000px">
+<img src="./readme_assets/total_billed_per_department.png" alt = "draft 1" width="1000px">
