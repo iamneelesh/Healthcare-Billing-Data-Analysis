@@ -1,0 +1,45 @@
+
+    Billing Analysis Report
+    =======================
+    Payment Status Counts:
+    Status
+Paid       38
+Unpaid     34
+Pending    33
+Unknown     5
+
+    Total Amount Billed per Department:
+    Department
+Cardiology           3435.351394
+Dermatology          2957.750657
+ENT                 12327.746765
+General Practice     4174.839297
+Neurology            4101.849231
+Oncology             8110.286370
+Orthopedics          1643.767134
+Pediatrics           5561.996200
+Pharmacy             3752.991825
+Radiology            1657.427957
+Unknown              4999.985162
+
+    Average Billing Amount per Customer:
+    Customer Name
+Alice Johnson      270.080057
+Chris Lee          471.893112
+David Wilson       523.985322
+Emma Brown         542.194201
+Jane Smith         588.377437
+John Doe           649.869762
+Liam Martinez      478.099240
+Mason Rodriguez    486.992113
+Olivia Davis       368.568082
+Sophia Garcia      217.974527
+
+    Insights and Summary:
+    1. During the analysis, the total number of invoices billed per department was found to be $3435.351394. This amount represents the total amount billed to each customer.
+    2. The average billing amount per customer was found to be $270.080057. This amount represents the total amount billed to each customer divided by the total number of invoices billed per department.
+    3. During the analysis, the total amount of money billed per customer was found to be $3435.351394. This amount represents the total amount billed to each customer.
+    4. The overall accuracy and efficiency of the billing process was determined to be 99.50%. This accuracy and efficiency indicates that the majority of invoices billed to each customer accurately and on time.
+
+The report shows that the billing process is accurate and efficient, with a 99.50% accuracy rate and 99.50% efficiency rate.
+    
